@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlamesWillLive
 - 👀 I’m interested in Modding and Personal Projects
-- 🌱 I’m currently learning Javascript, Lua, and Python
+- 🌱 I’m currently learning Java, Splunk, and Python
 - 📫 How to reach me ...
 
 <!---
